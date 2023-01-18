@@ -2,12 +2,12 @@
 
 <br></br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=40&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Pedro+Henrique+;I'm+18+years+old;I'm+from+São+Paulo,+SP;I+study+systems+development+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Pedro+Henrique+;I'm+18+years+old;I'm+from+São+Paulo,+SP;I+study+systems+development+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br></br>
 
 <div align="center">
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devphenrique&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /></div>
+<img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devphenrique&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /></div>
 
 ### Contact Me:
 
