@@ -1,12 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7AD5C4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
 
 <br></br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7AD5C4&size=36&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Pedro+Henrique+;I'm+18+years+old;I'm+from+São+Paulo,+SP;I+study+systems+development+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7AD5C4&size=40&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Pedro+Henrique+;I'm+18+years+old;I'm+from+São+Paulo,+SP;I+study+systems+development+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br></br>
 
-![Pedro Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=devphenrique&show_icons=true&theme=tokyonight)
+<div align="center">
+<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devphenrique&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /></div>
 
 ### Contact Me:
 
@@ -26,4 +27,4 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7AD5C4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
