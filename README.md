@@ -6,8 +6,6 @@
 
 <br></br>
 
-<div align="center">
-<img width="110%" height="190px" src="https://github-readme-stats.vercel.app/api?username=devphenrique&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /></div>
 
 ### Contact Me:
 
@@ -26,5 +24,9 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
+<br></br>
+
+<div align="center">
+<img width="110%" height="190px" src="https://github-readme-stats.vercel.app/api?username=devphenrique&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
