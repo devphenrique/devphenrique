@@ -6,9 +6,7 @@
 
 <br></br>
 
-<div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pxdrohenrique&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=7AD5C4&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Henrique github stats" />
-</div>
+![Pedro Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=devphenrique&show_icons=true&theme=tokyonight)
 
 ### Contact Me:
 
