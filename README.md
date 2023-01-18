@@ -7,7 +7,7 @@
 <br></br>
 
 <div align="center">
-<img width="100%" height="225px" src="https://github-readme-stats.vercel.app/api?username=devphenrique&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /></div>
+<img width="100%" height="425px" src="https://github-readme-stats.vercel.app/api?username=devphenrique&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /></div>
 
 ### Contact Me:
 
